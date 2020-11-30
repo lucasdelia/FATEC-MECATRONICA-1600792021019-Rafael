@@ -1,22 +1,28 @@
 import random
+
 repeticao = 0
-senhaUser1 = 'lucas123'
-senhaUser2 = 'qualquer_coisa'
-senhaUser3 = 'senha'
-saldoUser1 = 1000.00
-saldoUser2 = 250.00
-saldoUser3 = 3000.00
+
 email1 = 'lucasdelia2014@hotmail.com'
 email2 = 'rafaelmendes_barros@hotmail.com'
 email3 = 'murilo.zcarvalho@fatec.sp.gov.br'
+
+senhaUser1 = 'lucas123'
+senhaUser2 = 'qualquer_coisa'
+senhaUser3 = 'senha'
+
+USER1 = senhaUser1
+USER2 = senhaUser2
+USER3 = senhaUser3
+
+saldoUser1 = 1000.00
+saldoUser2 = 250.00
+saldoUser3 = 3000.00
+
 feedback = 'Sim'
 feedback1 = 'sim'
 feedback2 = 'sim'
 feedback3 = 'sim'
 feedback4 = 'sim'
-USER1 = senhaUser1
-USER2 = senhaUser2
-USER3 = senhaUser3
 Sim = True
 while feedback == 'Sim':
   while feedback1 == 'sim':
